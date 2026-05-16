@@ -1,4 +1,4 @@
-# 
+# premium Polymarket Module | trade-sniping + price-monitoring offers the most advanced Polymarket module, with trade-sniping and price-monitoring. Ideal for professional traders
 
 
 
